@@ -8,7 +8,6 @@ const getData = () => {
     .then(data => {
         h1.textContent = `ADVICE # ${data.slip.id}`
         h2.textContent = `"${data.slip.advice}"`
-        console.log(data)
     })
 }
 
