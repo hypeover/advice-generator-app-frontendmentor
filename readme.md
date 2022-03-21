@@ -4,4 +4,4 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 - Live Site URL: [App](https://6238cc3cf549cc0088a10418--zen-euclid-3732c3.netlify.app/)
 
-[Preview](./desktop-preview.jpg)
+![Preview](./desktop-preview.jpg)
